@@ -1,0 +1,58 @@
+# random seed  if seed = 0
+seed 1
+# old value T 1873.0
+T 873.0
+# old value V0_a 34532.0
+V0_a 34532.0
+# old value V0_b -9.178
+V0_b -9.178
+# old value V1_a -5996.0
+V1_a -5996.0
+# old value V1_b 1.725
+V1_b 1.725
+#
+M0 0.0
+#
+M1 0.0
+#
+Eps_0_0 0.0
+#
+Eps_0_1 0.0
+#
+Eps_E_0 0.0
+#
+Eps_E_1 0.0
+#
+Eps_S_0 0.0
+#
+Eps_S_1 0.0
+#
+Sig_E_0 0.0
+#
+Sig_E_1 0.0
+#
+Sig_S_0 0.0
+#
+Sig_S_1 0.0
+#
+An 0.0
+#
+dtau 1.1e-3
+#
+c_start 1
+#
+R 10
+#
+Ss 1
+#
+Ns 1000
+#
+deposition_on 1
+#
+atomistic_deposition 1
+# Number of deposited atoms per dimensionless unit time
+DepositionRate 9.090909090
+#
+extra_saves 10000
+#
+substrate_plus 3
